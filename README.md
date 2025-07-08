@@ -1,16 +1,12 @@
-## Hi there 👋
 
-<!--
-**seul1009/seul1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# GitHub stats
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmfdl8414)](https://solved.ac/rlatngus1691/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My git farm 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seul1009&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/seul1009"
+  width="600"
+  height="300"
+/>
+</a>
