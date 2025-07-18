@@ -6,10 +6,12 @@
 </br>
 
 # My Git Farm 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seul1009&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/seul1009"
-  width="600"
-  height="300"
-/>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seul1009&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/seul1009?pet-id=730401175026580094"
+    width="600"
+    height="120"
+  />
 </a>
+  
