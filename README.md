@@ -1,9 +1,4 @@
 # Hi ! I'm Seuli
-</br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmfdl8414)])
-
-</br>
 
 # My Git Farm 
 
